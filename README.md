@@ -6,6 +6,6 @@ Open terminal/CMD
 <br><br>
 
 
-1. ````git clone https://github.com/angeryrohan/Dobby---The-Assignment-Maker/ ```` <br>
+1. ````git clone https://github.com/angeryrohan/Dobby/ ```` <br>
 2. ```cd Dobby```
 3. ```python3 main.py```
