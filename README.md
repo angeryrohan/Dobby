@@ -7,5 +7,5 @@ Open terminal/CMD
 
 
 1. ````git clone https://github.com/angeryrohan/Dobby---The-Assignment-Maker/ ```` <br>
-2. ```cd The-Assignment-Maker```
+2. ```cd Dobby```
 3. ```python3 main.py```
