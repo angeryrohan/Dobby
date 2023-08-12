@@ -6,7 +6,7 @@ from PyPDF2 import PdfReader
 from apikey import APIKEY
 openai.api_key = APIKEY
 
-reader = PdfReader('DA1.pdf')
+reader = PdfReader('DA.pdf')
  
 # printing number of pages in pdf file
  
