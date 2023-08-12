@@ -11,6 +11,7 @@ Upload any assignment | Get it done within seconds<br><br>
    ```cd Dobby```<br>
    
 4. Update the "apikey.py" file <br>
+5. Put your assignment (in pdf format) in the same folder as your main.py
 
-5.  ```python3 main.py```
+6.  ```python3 main.py```
    
