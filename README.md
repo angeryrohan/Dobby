@@ -1,5 +1,5 @@
 # Dobby - The Assignment Maker
-Upload any PDF assignment | Get it done in the format of a word document within seconds<br><br>
+Upload any PDF assignment | Get it done in the format of a Word document within seconds<br><br>
 
 <h2>How to run</h2><br>
 1. Create your API Key here: https://platform.openai.com/account/api-keys
